@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "6eY/VzCy2S8ri3XJj7g9u17P437rnraCpOaULq4+MMw=",
+  "Source": "EMS",
+  "BasePath": "_content/EMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EMS\\wwwroot",
+      "Source": "EMS",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\EMS\\EMS\\wwwroot\\",
+      "BasePath": "_content/EMS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\EMS\\EMS\\wwwroot\\images\\Millionare.jpg",
+      "SourceId": "EMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\EMS\\EMS\\wwwroot\\",
+      "BasePath": "_content/EMS",
+      "RelativePath": "images/Millionare.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Millionare.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\EMS\\EMS\\wwwroot\\images\\Pablo.jpg",
+      "SourceId": "EMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\EMS\\EMS\\wwwroot\\",
+      "BasePath": "_content/EMS",
+      "RelativePath": "images/Pablo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pablo.jpg"
+    }
+  ]
+}

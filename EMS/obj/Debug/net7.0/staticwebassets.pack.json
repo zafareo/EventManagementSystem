@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\EMS\\EMS\\wwwroot\\images\\Millionare.jpg",
+      "PackagePath": "staticwebassets\\images\\Millionare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\EMS\\EMS\\wwwroot\\images\\Pablo.jpg",
+      "PackagePath": "staticwebassets\\images\\Pablo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EMS.props",
+      "PackagePath": "build\\EMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EMS.props",
+      "PackagePath": "buildMultiTargeting\\EMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EMS.props",
+      "PackagePath": "buildTransitive\\EMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
